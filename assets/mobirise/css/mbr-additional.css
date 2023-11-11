@@ -713,199 +713,6 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.5;
 }
-.cid-repa7rjItl {
-  background: linear-gradient(to right, #ffffff, #6dd5fa, #2980b9);
-  background-image: url("../../../assets/images/66-668978-porsche-gt3-rs-2018-2000x1081.jpg");
-}
-.cid-repa7rjItl .mbri-down {
-  font-size: 16px !important;
-  color: white;
-}
-.cid-repa7rjItl .mbr-section-title,
-.cid-repa7rjItl .mbr-section-subtitle {
-  color: #000000;
-}
-.cid-repa7rjItl .mbr-section-text {
-  color: #232323;
-}
-.cid-repa7rjItl .mbr-text,
-.cid-repa7rjItl .typed-text,
-.cid-repa7rjItl .mbr-section-text {
-  letter-spacing: 0.03rem;
-}
-.cid-repa7rjItl .btn {
-  margin-left: 4px !important;
-}
-.cid-repa7rjItl .animated-element {
-  color: #5eeebb;
-}
-.cid-repa7rjItl .typed-cursor {
-  opacity: 1;
-  -webkit-animation: blink 0.7s infinite;
-  -moz-animation: blink 0.7s infinite;
-  animation: blink 0.7s infinite;
-  color: #5eeebb;
-}
-.cid-repa7rjItl .mbr-figure {
-  border-radius: .25rem;
-  overflow: hidden;
-}
-@media (max-width: 991px) {
-  .cid-repa7rjItl .mbr-figure {
-    margin-top: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-repa7rjItl .typed-text,
-  .cid-repa7rjItl .mbr-section-subtitle,
-  .cid-repa7rjItl .mbr-section-text,
-  .cid-repa7rjItl .mbr-section-btn {
-    text-align: center !important;
-  }
-}
-@keyframes blink {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-@-webkit-keyframes blink {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-@-moz-keyframes blink {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-.cid-repa7rjItl P {
-  color: #f4f8fa;
-  text-align: center;
-}
-.cid-repa7rjItl .mbr-section-text,
-.cid-repa7rjItl .mbr-section-btn {
-  text-align: left;
-  color: #f4f8fa;
-}
-.cid-repa7rjItl .mbr-section-subtitle,
-.cid-repa7rjItl .typed-text {
-  color: #ffffff;
-}
-.cid-repa7rjItl .mbr-section-subtitle,
-.cid-repa7rjItl .typed-text B {
-  color: #f4f8fa;
-}
-.cid-repa7rjItl .mbr-section-text,
-.cid-repa7rjItl .mbr-section-btn B {
-  color: #000000;
-}
-.cid-rYng8Mohzs {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #f4f8fa;
-  background: linear-gradient(45deg, #f4f8fa, #5eeebb);
-}
-.cid-rYng8Mohzs .mbr-section-subtitle {
-  color: #444444;
-}
-.cid-rYng8Mohzs .btn {
-  margin: 0 0 .5rem 0;
-}
-@media (max-width: 768px) {
-  .cid-rYng8Mohzs h2,
-  .cid-rYng8Mohzs h3 {
-    text-align: center !important;
-  }
-  .cid-rYng8Mohzs .mbr-section-btn {
-    text-align: center !important;
-  }
-}
-.cid-rYng8Mohzs .mbr-section-subtitle P {
-  text-align: center;
-}
-.cid-rVQBng0qp1 {
-  padding-top: 120px;
-  padding-bottom: 75px;
-  background-color: #ffffff;
-}
-.cid-rVQBng0qp1 .mbr-text {
-  color: #767676;
-}
-.cid-rVQBng0qp1 .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rVQBng0qp1 .title {
-  position: relative;
-  display: flex;
-  -webkit-align-items: center;
-  align-items: center;
-}
-.cid-rVQBng0qp1 .title .num {
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
-  position: absolute;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
-  z-index: 0;
-  width: 100%;
-  font-size: 4rem;
-}
-.cid-rVQBng0qp1 .title .card-title {
-  z-index: 1;
-  width: 100%;
-}
-.cid-rVQBng0qp1 .card-text {
-  padding-top: 2rem;
-  text-align: left;
-}
-.cid-rVQBng0qp1 .card-box {
-  padding-bottom: 1rem;
-}
-.cid-rVQBng0qp1 .num {
-  color: #2bdc9d;
-  text-align: left;
-}
-@media (max-width: 767px) {
-  .cid-rVQBng0qp1 .num,
-  .cid-rVQBng0qp1 .card-title,
-  .cid-rVQBng0qp1 .mbr-text,
-  .cid-rVQBng0qp1 .mbr-title,
-  .cid-rVQBng0qp1 .mbr-section-subtitle,
-  .cid-rVQBng0qp1 .mbr-section-btn,
-  .cid-rVQBng0qp1 .mbr-section-title {
-    text-align: center !important;
-  }
-  .cid-rVQBng0qp1 .content-column {
-    margin-bottom: 2rem;
-  }
-}
-.cid-rVQBng0qp1 .mbr-section-title {
-  text-align: center;
-  color: #6e7584;
-}
-.cid-rVQBng0qp1 .card-title,
-.cid-rVQBng0qp1 .card-img {
-  text-align: left;
-}
 .cid-repci1VYkJ .opened .text-white {
   color: black !important;
 }
@@ -1257,6 +1064,199 @@ section.lazy-placeholder:after {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-repa7rjItl {
+  background: linear-gradient(to right, #ffffff, #6dd5fa, #2980b9);
+  background-image: url("../../../assets/images/66-668978-porsche-gt3-rs-2018-2000x1081.jpg");
+}
+.cid-repa7rjItl .mbri-down {
+  font-size: 16px !important;
+  color: white;
+}
+.cid-repa7rjItl .mbr-section-title,
+.cid-repa7rjItl .mbr-section-subtitle {
+  color: #000000;
+}
+.cid-repa7rjItl .mbr-section-text {
+  color: #232323;
+}
+.cid-repa7rjItl .mbr-text,
+.cid-repa7rjItl .typed-text,
+.cid-repa7rjItl .mbr-section-text {
+  letter-spacing: 0.03rem;
+}
+.cid-repa7rjItl .btn {
+  margin-left: 4px !important;
+}
+.cid-repa7rjItl .animated-element {
+  color: #5eeebb;
+}
+.cid-repa7rjItl .typed-cursor {
+  opacity: 1;
+  -webkit-animation: blink 0.7s infinite;
+  -moz-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+  color: #5eeebb;
+}
+.cid-repa7rjItl .mbr-figure {
+  border-radius: .25rem;
+  overflow: hidden;
+}
+@media (max-width: 991px) {
+  .cid-repa7rjItl .mbr-figure {
+    margin-top: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-repa7rjItl .typed-text,
+  .cid-repa7rjItl .mbr-section-subtitle,
+  .cid-repa7rjItl .mbr-section-text,
+  .cid-repa7rjItl .mbr-section-btn {
+    text-align: center !important;
+  }
+}
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.cid-repa7rjItl P {
+  color: #f4f8fa;
+  text-align: center;
+}
+.cid-repa7rjItl .mbr-section-text,
+.cid-repa7rjItl .mbr-section-btn {
+  text-align: left;
+  color: #f4f8fa;
+}
+.cid-repa7rjItl .mbr-section-subtitle,
+.cid-repa7rjItl .typed-text {
+  color: #ffffff;
+}
+.cid-repa7rjItl .mbr-section-subtitle,
+.cid-repa7rjItl .typed-text B {
+  color: #f4f8fa;
+}
+.cid-repa7rjItl .mbr-section-text,
+.cid-repa7rjItl .mbr-section-btn B {
+  color: #000000;
+}
+.cid-rYng8Mohzs {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f4f8fa;
+  background: linear-gradient(45deg, #f4f8fa, #5eeebb);
+}
+.cid-rYng8Mohzs .mbr-section-subtitle {
+  color: #444444;
+}
+.cid-rYng8Mohzs .btn {
+  margin: 0 0 .5rem 0;
+}
+@media (max-width: 768px) {
+  .cid-rYng8Mohzs h2,
+  .cid-rYng8Mohzs h3 {
+    text-align: center !important;
+  }
+  .cid-rYng8Mohzs .mbr-section-btn {
+    text-align: center !important;
+  }
+}
+.cid-rYng8Mohzs .mbr-section-subtitle P {
+  text-align: center;
+}
+.cid-rVQBng0qp1 {
+  padding-top: 120px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.cid-rVQBng0qp1 .mbr-text {
+  color: #767676;
+}
+.cid-rVQBng0qp1 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rVQBng0qp1 .title {
+  position: relative;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.cid-rVQBng0qp1 .title .num {
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  z-index: 0;
+  width: 100%;
+  font-size: 4rem;
+}
+.cid-rVQBng0qp1 .title .card-title {
+  z-index: 1;
+  width: 100%;
+}
+.cid-rVQBng0qp1 .card-text {
+  padding-top: 2rem;
+  text-align: left;
+}
+.cid-rVQBng0qp1 .card-box {
+  padding-bottom: 1rem;
+}
+.cid-rVQBng0qp1 .num {
+  color: #2bdc9d;
+  text-align: left;
+}
+@media (max-width: 767px) {
+  .cid-rVQBng0qp1 .num,
+  .cid-rVQBng0qp1 .card-title,
+  .cid-rVQBng0qp1 .mbr-text,
+  .cid-rVQBng0qp1 .mbr-title,
+  .cid-rVQBng0qp1 .mbr-section-subtitle,
+  .cid-rVQBng0qp1 .mbr-section-btn,
+  .cid-rVQBng0qp1 .mbr-section-title {
+    text-align: center !important;
+  }
+  .cid-rVQBng0qp1 .content-column {
+    margin-bottom: 2rem;
+  }
+}
+.cid-rVQBng0qp1 .mbr-section-title {
+  text-align: center;
+  color: #6e7584;
+}
+.cid-rVQBng0qp1 .card-title,
+.cid-rVQBng0qp1 .card-img {
+  text-align: left;
 }
 .cid-reBTOrCe7J {
   padding-top: 0px;
